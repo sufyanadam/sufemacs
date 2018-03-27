@@ -1,0 +1,12 @@
+* sufemacs
+  Run this command to auto-setup:
+  #+BEGIN_SRC bash
+  bash <(curl -s https://raw.githubusercontent.com/sufyanadam/sufemacs/master/install.sh)
+  #+END_SRC
+
+  Or clone this repo and run
+  #+BEGIN_SRC bash
+  git clone https://github.com/sufyanadam/sufemacs.git
+  cd sufemacs
+  ./install.sh
+  #+END_SRC
