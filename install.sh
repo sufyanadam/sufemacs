@@ -5,7 +5,6 @@ brew update
 brew install emacs --with-cocoa
 brew install cask
 brew install mplayer
-brew install ag
 brew tap caskroom/fonts
 brew cask install font-hack
 
@@ -17,3 +16,5 @@ git clone https://github.com/sufyanadam/.emacs.d.git
 cd ~/.emacs.d
 cask
 cask update
+
+brew install ag
