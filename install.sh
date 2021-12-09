@@ -2,7 +2,8 @@
 
 cd ~
 brew update
-brew install emacs --with-cocoa
+brew tap daviderestivo/emacs-head
+brew install emacs-head@26 --with-cocoa
 brew install cask
 brew install mplayer
 brew install ag
